@@ -1,10 +1,12 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBsNW1hcmlubmV3eWlxd2F2eW11bmxxdDlzMW5hM28yb2kwdDY5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)
+<p align="center">
+    <video src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBsNW1hcmlubmV3eWlxd2F2eW11bmxxdDlzMW5hM28yb2kwdDY5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" alt="MasterHead" width="500">
+</p>
 
 <h1 align="center">Hi 👋, I'm Antonella Rios</h1>
 <h3 align="center">A FullStack Developer with a focus on Frontend</h3>
 <video controls autoplay name="media"><source src=""></video>
 
-<img align="left" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ0NG1leGdmdmJ5dHQ2eHlud2VvZjhiM3ZtZGh2ZGVrZjA1cTNyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/79ff687115b1c5a79f47622ef763806d9112e3bad0d77364646666584f959ba4/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d5a304e47316c6547646d646d4a356448513265486c75643256765a6a68694d335a745a4768325a4756725a6a413163544e7959535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f517056554d52554a476f6b667158796661312f67697068792e676966">
 
 - 📫 How to reach me **antonellarios@gmail.com**
 
