@@ -1,10 +1,10 @@
-![MasterHead]([https://mograph.video/Plexus4K](https://giphy.com/gifs/blue-technology-data-lbcLMX9B6sTsGjUmS3)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBsNW1hcmlubmV3eWlxd2F2eW11bmxxdDlzMW5hM28yb2kwdDY5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Antonella Rios</h1>
 <h3 align="center">A FullStack Developer with a focus on Frontend</h3>
 <video controls autoplay name="media"><source src=""></video>
 
-<img align="left" alt="coding" width="400" src="https://mograph.video/Plexus4K">
+<img align="left" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ0NG1leGdmdmJ5dHQ2eHlud2VvZjhiM3ZtZGh2ZGVrZjA1cTNyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
 
 - 📫 How to reach me **antonellarios@gmail.com**
 
