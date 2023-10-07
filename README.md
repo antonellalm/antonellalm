@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Antonella Rios</h1>
 <h3 align="center">A FullStack Developer with a focus on Frontend</h3>
-<img align="left" alt="coding" width="400" src="https://cdn.create.vista.com/api/media/small/435351278/stock-video-abstract-digital-background-of-programming-binary-code-seamless-loop-animation-colorful-zero-and-one-digits?token=">
+<video controls autoplay name="media"><source src="https://cdn.create.vista.com/api/media/small/193992352/stock-video-digital-background-perfect-blue-seamless-looping-footage-ones-zeros-motive?token=" type="video/mp4"></video>
+
+[<img align="left" alt="coding" width="400" src="https://cdn.create.vista.com/api/media/small/435351278/stock-video-abstract-digital-background-of-programming-binary-code-seamless-loop-animation-colorful-zero-and-one-digits?token=">](url)
 
 - 📫 How to reach me **antonellarios@gmail.com**
 
