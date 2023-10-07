@@ -1,4 +1,4 @@
-![MasterHead](https://mograph.video/Plexus4K)
+![MasterHead]([https://mograph.video/Plexus4K](https://giphy.com/gifs/blue-technology-data-lbcLMX9B6sTsGjUmS3)
 
 <h1 align="center">Hi 👋, I'm Antonella Rios</h1>
 <h3 align="center">A FullStack Developer with a focus on Frontend</h3>
