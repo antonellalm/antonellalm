@@ -10,7 +10,7 @@
 
 <p>⚡ Me encanta pasear con mi perro y leer libros sobre el desarrollo y desempeño del humano</p>
 <p>🌱 Actualmente estoy aprendiendo Sass y GA4</p>
-<p align="center">- 📫 Datos de contacto : antonellarios@gmail.com </p>
+<p >📫 Datos de contacto : antonellarios@gmail.com </p>
 
 
 <h3 align="center">Connect with me:</h3>
