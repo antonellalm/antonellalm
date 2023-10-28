@@ -9,7 +9,7 @@
 
 
 
-<p>🌱 Actualmente estoy aprendiendo Sass y GA4</p>
+<p>🌱 Actualmente estoy aprendiendo Sass y TypeScript</p>
 <p >📫 Datos de contacto : antonellarios@gmail.com </p>
 
 
