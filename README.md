@@ -10,7 +10,7 @@
 
 
 <p>🌱 Actualmente estoy aprendiendo Sass y TypeScript</p>
-<p >📫 Datos de contacto : antonellarios@gmail.com </p>
+<p >📫 Datos de contacto : antonellarios0098@gmail.com </p>
 
 
 <h3 align="center">Connect with me:</h3>
