@@ -9,7 +9,7 @@
 
 
 
-<p>🌱 Actualmente estoy aprendiendo Sass y TypeScript</p>
+<p>🌱 Actualmente estoy aprendiendo TypeScript</p>
 <p >📫 Datos de contacto : antonellarios0098@gmail.com </p>
 
 
