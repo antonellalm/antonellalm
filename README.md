@@ -1,8 +1,9 @@
 <p align="center">
-    <img src="https://www.canva.com/design/DAF06q2smTA/hWMqBzt5ME5kg6Yc-aPcNg/edit?utm_content=DAF06q2smTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="MasterHead" width="800" height="200">
+    <img src="https://github.com/antonellalm/antonellalm/assets/113307701/4c9b13e1-0ca0-4825-9406-abe76b780399" alt="MasterHead" width="800" height="200">
 </p>
 
-<h1 align="center">Bienvenido/a 👋, Soy Antonella Rios</h1>
+<h1 align="center">Bienvenido/a 👋, Soy Antonella Rios</h1>!
+
 <h3 align="center"> FullStack Developer enfocada especialmente en FrontEnd</h3>
 
 <p> Me entusiasma crear servicios y productos digitales novedosos e innovadores que impacten a los usuarios a a quienes va dirigido. Siempre estoy en busca de desafíos y objetivos complejos para resolver y así seguir potenciando mis habilidades para desarrollar interfaces de usuario. A la hora de desarrollar implemento buenas prácticas que aseguren un rendimiento óptimo y una excelente experiencia de usuario. Costantemente me mantengo actualizada, aprendiendo nuevas tecnologías para ampliar mi aspectro de habilidades y así brindar mejores servicios. </p>
