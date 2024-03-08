@@ -4,7 +4,7 @@
 
 <h1 align="center">Bienvenido/a 👋, Soy Antonella Rios</h1>
 <h3 align="center"> FullStack Developer enfocada especialmente en FrontEnd</h3>
-<p> Soy una apasionada de los servicios y productos digitales y me encantan los desafios y expandirme en el camino, es por eso que me facina el desarrollo de software. Con una base sólida de conocimientos sobre el trabajo basado en metodologias ágiles que obtuve realizando la diplomatura de Product Managent, y la experiencia obtenida en el Henry BootCamp donde se exigen habilidades de resolucion agil, eficaz y un aprendizaje rápido, me considero lista para aportar y contribuir en proyectos innovadores. Costantemente me mantengo actualizada y aprendiendo nuevas tecnologías para ampliar mi aspectro de habilidades </p>
+<p> Me entusiasma crear servicios y productos digitales novedosos e innovadores que impacten en los usuarios que los utilizan. Con una base sólida de conocimientos sobre el trabajo basado en metodologias ágiles que obtuve realizando la diplomatura de Product Managent, y la experiencia obtenida en el Henry BootCamp donde se exigen habilidades de resolucion agil, eficaz y un aprendizaje rápido, me considero lista para aportar y contribuir en proyectos innovadores. Costantemente me mantengo actualizada y aprendiendo nuevas tecnologías para ampliar mi aspectro de habilidades </p>
    
 
 
