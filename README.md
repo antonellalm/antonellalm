@@ -1,10 +1,11 @@
 <p align="center">
-    <img src="https://camo.githubusercontent.com/79ff687115b1c5a79f47622ef763806d9112e3bad0d77364646666584f959ba4/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d5a304e47316c6547646d646d4a356448513265486c75643256765a6a68694d335a745a4768325a4756725a6a413163544e7959535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f517056554d52554a476f6b667158796661312f67697068792e676966" alt="MasterHead" width="800" height="200">
+    <img src="https://www.canva.com/design/DAF06q2smTA/hWMqBzt5ME5kg6Yc-aPcNg/edit?utm_content=DAF06q2smTA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="MasterHead" width="800" height="200">
 </p>
 
 <h1 align="center">Bienvenido/a 👋, Soy Antonella Rios</h1>
 <h3 align="center"> FullStack Developer enfocada especialmente en FrontEnd</h3>
-<p> Me entusiasma crear servicios y productos digitales novedosos e innovadores que impacten en los usuarios que los utilizan. Con una base sólida de conocimientos sobre el trabajo basado en metodologias ágiles que obtuve realizando la diplomatura de Product Managent, y la experiencia obtenida en el Henry BootCamp donde se exigen habilidades de resolucion agil, eficaz y un aprendizaje rápido, me considero lista para aportar y contribuir en proyectos innovadores. Costantemente me mantengo actualizada y aprendiendo nuevas tecnologías para ampliar mi aspectro de habilidades </p>
+
+<p> Me entusiasma crear servicios y productos digitales novedosos e innovadores que impacten a los usuarios a a quienes va dirigido. Siempre estoy en busca de desafíos y objetivos complejos para resolver y así seguir potenciando mis habilidades para desarrollar interfaces de usuario. A la hora de desarrollar implemento buenas prácticas que aseguren un rendimiento óptimo y una excelente experiencia de usuario. Costantemente me mantengo actualizada, aprendiendo nuevas tecnologías para ampliar mi aspectro de habilidades y así brindar mejores servicios. </p>
    
 
 
