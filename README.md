@@ -4,9 +4,9 @@
 
 <h1 align="center">Bienvenido/a 👋, Soy Antonella Rios</h1>
 
-<h3 align="center"> FullStack Developer enfocada especialmente en FrontEnd</h3>
+<h3 align="center"> Creative, Software developer</h3>
 
-<p> Me entusiasma crear servicios y productos digitales novedosos e innovadores que impacten a los usuarios a a quienes va dirigido. Siempre estoy en busca de desafíos y objetivos complejos para resolver y así seguir potenciando mis habilidades para desarrollar interfaces de usuario. A la hora de desarrollar implemento buenas prácticas que aseguren un rendimiento óptimo y una excelente experiencia de usuario. Costantemente me mantengo actualizada, aprendiendo nuevas tecnologías para ampliar mi espectro de habilidades y así brindar mejores servicios. </p>
+
    
 
 
