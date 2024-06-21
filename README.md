@@ -2,7 +2,6 @@
     <img src="https://github.com/antonellalm/antonellalm/assets/113307701/4c9b13e1-0ca0-4825-9406-abe76b780399" alt="MasterHead" width="800" height="200">
 </p>
 
-<h1 align="center">Bienvenido/a 👋, Soy Antonella Rios</h1>
 
 <h3 align="center"> Creative, Software developer</h3>
 
